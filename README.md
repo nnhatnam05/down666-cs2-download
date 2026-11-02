@@ -1,3 +1,6 @@
-# Down666 CS2 Download
+# Down666 CS2
 
-Public release repository for the Down666 Radar launcher.
+## Yêu cầu cho người dùng cuối
+- Windows 10/11 x64
+- Counter-Strike 2 đã cài trên máy
+- Kết nối Internet
